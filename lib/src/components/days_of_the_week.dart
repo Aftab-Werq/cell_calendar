@@ -9,7 +9,7 @@ const List<String> _DaysOfTheWeek = [
   'Tue',
   'Wed',
   'Thu',
-  'Fry',
+  'Fri',
   'Sat'
 ];
 
